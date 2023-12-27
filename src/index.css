@@ -1,13 +1,7 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&family=Black+Ops+One&family=Caveat&family=Courgette&family=Croissant+One&family=Dancing+Script:wght@500;700&family=Handlee&family=Kaisei+HarunoUmi:wght@500&family=Kalam:wght@300;400&family=Lobster&family=Montserrat:wght@300&family=Mulish:wght@300;500&family=Pacifico&family=Playfair+Display:ital,wght@0,500;1,700&family=Roboto:wght@100;400&family=Satisfy&family=Yanone+Kaffeesatz&display=swap');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: Kalam;
 }
